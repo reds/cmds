@@ -22,6 +22,7 @@ var (
 		"Ann Arbor":  loc{lat: 42.288873, lng: -83.74613},
 		"Dublin":     loc{lat: 53.3403505, lng: -6.3534707}, // ballyer
 		"Greenville": loc{lat: 34.844068, lng: -82.404295},
+		"Anna Maria": loc{lat: 27.499887, lng: -82.715927},
 	}
 )
 
